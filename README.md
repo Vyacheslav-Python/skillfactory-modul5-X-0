@@ -1,0 +1,1 @@
+This is a tic-tac-toe game, to start playing, just download the code file in your virtual environment. After the end of the game, press the space bar and it will start again! I wish you only victories :)
